@@ -1,28 +1,25 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Leveraging mutation burden for complex trait prediction in sorghum
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Content ###
 
-### How do I get set up? ###
+* data/: Deleterious mutations data and phenotypic data
+* src/: R code, Java scripts, Scala scripts on data processing and analysis
+* doc/: Manuscript drafts
+* figs/: Manuscript figures
+* notebook/: Notebooks and virtual environments (if any)
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
+### Schedule ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* End of March - submission to Bioarchiv
+* End of April - submission to Plos Genetics
 
-### Who do I talk to? ###
+### Contacts ###
 
-* Repo owner or admin
+* Owners: Ravi Valluru (rv285@cornell.edu), Nonoy Bandillo (nb549@cornell.edu)
+* Other contacts: Ed Buckler, Sara Miller, Cinta Romay (Buckler lab)
+
+
