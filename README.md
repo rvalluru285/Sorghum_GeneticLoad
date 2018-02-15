@@ -1,6 +1,8 @@
 # README #
 
+
 # Leveraging mutation burden for complex trait prediction in sorghum
+
 
 
 ## Content ##
@@ -12,10 +14,13 @@
 * notebook/: Notebooks and virtual environments (if any)
 
 
+
 ## Schedule ##
 
 * Bioarchiv : end of March
 * Plos Genetics : end of April
+
+
 
 ## Contacts ##
 
