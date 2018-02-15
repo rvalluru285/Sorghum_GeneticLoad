@@ -24,7 +24,7 @@
 
 ## Contacts ##
 
-* Owners: Ravi Valluru (rv285@cornell.edu), Nonoy Bandillo (nb549@cornell.edu)
+* Ravi Valluru (rv285@cornell.edu), Nonoy Bandillo (nb549@cornell.edu)
 * Other contacts: Ed Buckler, Sara Miller, Cinta Romay (Buckler lab)
 
 
