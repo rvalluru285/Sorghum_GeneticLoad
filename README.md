@@ -1,6 +1,6 @@
 # README #
 
-Leveraging mutation burden for complex trait prediction in sorghum
+### Leveraging mutation burden for complex trait prediction in sorghum
 
 
 ## Content ##
