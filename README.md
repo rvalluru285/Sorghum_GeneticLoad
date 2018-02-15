@@ -3,7 +3,7 @@
 Leveraging mutation burden for complex trait prediction in sorghum
 
 
-### Content ###
+## Content ##
 
 * data/: Deleterious mutations data and phenotypic data
 * src/: R code, Java scripts, Scala scripts on data processing and analysis
@@ -12,12 +12,12 @@ Leveraging mutation burden for complex trait prediction in sorghum
 * notebook/: Notebooks and virtual environments (if any)
 
 
-### Schedule ###
+## Schedule ##
 
 * End of March - submission to Bioarchiv
 * End of April - submission to Plos Genetics
 
-### Contacts ###
+## Contacts ##
 
 * Owners: Ravi Valluru (rv285@cornell.edu), Nonoy Bandillo (nb549@cornell.edu)
 * Other contacts: Ed Buckler, Sara Miller, Cinta Romay (Buckler lab)
