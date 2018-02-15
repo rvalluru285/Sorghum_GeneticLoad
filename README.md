@@ -14,8 +14,8 @@
 
 ## Schedule ##
 
-* End of March - submission to Bioarchiv
-* End of April - submission to Plos Genetics
+* Bioarchiv : end of March
+* Plos Genetics : end of April
 
 ## Contacts ##
 
