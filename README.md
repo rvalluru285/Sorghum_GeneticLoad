@@ -1,7 +1,7 @@
 # README #
 
 
-# Leveraging mutation burden for complex trait prediction in sorghum
+# Deleterious Mutation Burden and its Association with Complex Traits in sorghum (Sorghum bicolor)
 
 
 
@@ -17,14 +17,13 @@
 
 ## Schedule ##
 
-* Bioarchiv : end of March
-* Plos Genetics : end of April
+* Genetics (Accepted, Dec 2018)
 
 
 
 ## Contacts ##
 
-* Ravi Valluru (rv285@cornell.edu), Nonoy Bandillo (nb549@cornell.edu)
+* Ravi Valluru (rv285@cornell.edu)
 * Other contacts: Ed Buckler, Sara Miller, Cinta Romay (Buckler lab)
 
 
