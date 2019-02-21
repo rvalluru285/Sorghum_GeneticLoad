@@ -2,13 +2,13 @@
 
 
 # Deleterious Mutation Burden and its Association with Complex Traits in sorghum (Sorghum bicolor)
-* Valluru et al. 2018. Genetics (http://www.genetics.org/content/early/2019/01/08/genetics.118.301742)
+* Valluru et al. 2019. Genetics (http://www.genetics.org/content/early/2019/01/08/genetics.118.301742)
 
 
 ## Content ##
 
-* data/: Deleterious mutations data and phenotypic data
-* src/: R code, and Java scripts on data processing and analysis
+* data/: Deleterious mutations and phenotypic data
+* src/: For R scripts, the corresponding authors can be contacted.
 * doc/: Manuscript drafts
 * figs/: Manuscript figures
 
