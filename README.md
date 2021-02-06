@@ -17,6 +17,5 @@
 ## Contacts ##
 
 * Ravi Valluru (rvalluru285@gmail.com)
-* Other contacts: Ed Buckler, Sara Miller, Cinta Romay (Buckler lab)
 
 
